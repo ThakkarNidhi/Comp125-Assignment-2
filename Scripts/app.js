@@ -7,7 +7,7 @@
 @date 10/06/2016
 *
 *student id:300872151
-*website  
+*website  :http://assignment2comp125.azurewebsites.net/
 @description This is the main java script file for the website.
 */
 (function(){
